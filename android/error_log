@@ -1,0 +1,139 @@
+[19-Aug-2018 18:33:49 America/Guayaquil] PHP Parse error:  syntax error, unexpected end of file in /home/kairoskids/public_html/android/guardar_perfil.php on line 74
+[19-Aug-2018 18:40:05 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/kairoskids/public_html/android/guardar_perfil.php on line 70
+[19-Aug-2018 18:42:01 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/kairoskids/public_html/android/guardar_perfil.php on line 69
+[19-Aug-2018 18:48:27 America/Guayaquil] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/kairoskids/public_html/android/guardar_perfil.php on line 70
+[19-Aug-2018 19:04:48 America/Guayaquil] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/kairoskids/public_html/android/ingreso_perfil.php on line 11
+[19-Aug-2018 19:04:48 America/Guayaquil] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/kairoskids/public_html/android/ingreso_perfil.php on line 12
+[19-Aug-2018 19:04:48 America/Guayaquil] PHP Fatal error:  Call to undefined function iseet() in /home/kairoskids/public_html/android/ingreso_perfil.php on line 30
+[19-Aug-2018 19:04:52 America/Guayaquil] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/kairoskids/public_html/android/ingreso_perfil.php on line 11
+[19-Aug-2018 19:04:52 America/Guayaquil] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/kairoskids/public_html/android/ingreso_perfil.php on line 12
+[19-Aug-2018 19:04:52 America/Guayaquil] PHP Fatal error:  Call to undefined function iseet() in /home/kairoskids/public_html/android/ingreso_perfil.php on line 30
+[19-Aug-2018 19:05:22 America/Guayaquil] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/kairoskids/public_html/android/ingreso_perfil.php on line 11
+[19-Aug-2018 19:05:22 America/Guayaquil] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/kairoskids/public_html/android/ingreso_perfil.php on line 12
+[19-Aug-2018 19:05:22 America/Guayaquil] PHP Fatal error:  Call to undefined function iseet() in /home/kairoskids/public_html/android/ingreso_perfil.php on line 30
+[19-Aug-2018 19:06:07 America/Guayaquil] PHP Fatal error:  Call to undefined function iseet() in /home/kairoskids/public_html/android/ingreso_perfil.php on line 37
+[19-Aug-2018 19:07:54 America/Guayaquil] PHP Fatal error:  Call to undefined function iseet() in /home/kairoskids/public_html/android/ingreso_perfil.php on line 37
+[19-Aug-2018 19:09:31 America/Guayaquil] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/kairoskids/public_html/android/ingreso_perfil.php on line 19
+[19-Aug-2018 19:09:50 America/Guayaquil] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/kairoskids/public_html/android/ingreso_perfil.php on line 19
+[19-Aug-2018 19:09:55 America/Guayaquil] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/kairoskids/public_html/android/ingreso_perfil.php on line 19
+[19-Aug-2018 19:10:03 America/Guayaquil] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/kairoskids/public_html/android/ingreso_perfil.php on line 19
+[19-Aug-2018 19:10:08 America/Guayaquil] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/kairoskids/public_html/android/ingreso_perfil.php on line 19
+[19-Aug-2018 19:10:12 America/Guayaquil] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/kairoskids/public_html/android/ingreso_perfil.php on line 19
+[19-Aug-2018 19:10:16 America/Guayaquil] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/kairoskids/public_html/android/ingreso_perfil.php on line 19
+[19-Aug-2018 19:10:20 America/Guayaquil] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/kairoskids/public_html/android/ingreso_perfil.php on line 19
+[19-Aug-2018 19:10:24 America/Guayaquil] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/kairoskids/public_html/android/ingreso_perfil.php on line 19
+[19-Aug-2018 19:10:30 America/Guayaquil] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/kairoskids/public_html/android/ingreso_perfil.php on line 19
+[19-Aug-2018 19:10:34 America/Guayaquil] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/kairoskids/public_html/android/ingreso_perfil.php on line 19
+[19-Aug-2018 19:11:20 America/Guayaquil] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/kairoskids/public_html/android/ingreso_perfil.php on line 19
+[19-Aug-2018 19:11:25 America/Guayaquil] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/kairoskids/public_html/android/ingreso_perfil.php on line 19
+[19-Aug-2018 19:11:29 America/Guayaquil] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/kairoskids/public_html/android/ingreso_perfil.php on line 19
+[19-Aug-2018 19:11:35 America/Guayaquil] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/kairoskids/public_html/android/ingreso_perfil.php on line 19
+[19-Aug-2018 19:11:39 America/Guayaquil] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/kairoskids/public_html/android/ingreso_perfil.php on line 19
+[19-Aug-2018 19:11:43 America/Guayaquil] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/kairoskids/public_html/android/ingreso_perfil.php on line 19
+[19-Aug-2018 19:11:50 America/Guayaquil] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/kairoskids/public_html/android/ingreso_perfil.php on line 19
+[19-Aug-2018 19:11:54 America/Guayaquil] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/kairoskids/public_html/android/ingreso_perfil.php on line 19
+[19-Aug-2018 19:11:58 America/Guayaquil] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/kairoskids/public_html/android/ingreso_perfil.php on line 19
+[19-Aug-2018 19:12:38 America/Guayaquil] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/kairoskids/public_html/android/ingreso_perfil.php on line 19
+[19-Aug-2018 19:12:42 America/Guayaquil] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/kairoskids/public_html/android/ingreso_perfil.php on line 19
+[19-Aug-2018 19:12:46 America/Guayaquil] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/kairoskids/public_html/android/ingreso_perfil.php on line 19
+[19-Aug-2018 19:12:51 America/Guayaquil] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/kairoskids/public_html/android/ingreso_perfil.php on line 19
+[19-Aug-2018 19:12:55 America/Guayaquil] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/kairoskids/public_html/android/ingreso_perfil.php on line 19
+[19-Aug-2018 19:13:59 America/Guayaquil] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/kairoskids/public_html/android/ingreso_perfil.php on line 19
+[19-Aug-2018 19:14:03 America/Guayaquil] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/kairoskids/public_html/android/ingreso_perfil.php on line 19
+[19-Aug-2018 19:14:07 America/Guayaquil] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/kairoskids/public_html/android/ingreso_perfil.php on line 19
+[19-Aug-2018 19:14:12 America/Guayaquil] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/kairoskids/public_html/android/ingreso_perfil.php on line 19
+[19-Aug-2018 19:14:16 America/Guayaquil] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/kairoskids/public_html/android/ingreso_perfil.php on line 19
+[19-Aug-2018 19:14:21 America/Guayaquil] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/kairoskids/public_html/android/ingreso_perfil.php on line 19
+[19-Aug-2018 19:14:25 America/Guayaquil] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/kairoskids/public_html/android/ingreso_perfil.php on line 19
+[19-Aug-2018 19:14:29 America/Guayaquil] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/kairoskids/public_html/android/ingreso_perfil.php on line 19
+[19-Aug-2018 19:14:33 America/Guayaquil] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/kairoskids/public_html/android/ingreso_perfil.php on line 19
+[19-Aug-2018 19:15:14 America/Guayaquil] PHP Warning:  copy(): Filename cannot be empty in /home/kairoskids/public_html/android/guardar_perfil.php on line 42
+[19-Aug-2018 19:15:17 America/Guayaquil] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/kairoskids/public_html/android/ingreso_perfil.php on line 19
+[19-Aug-2018 19:17:11 America/Guayaquil] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/kairoskids/public_html/android/ingreso_perfil.php on line 19
+[19-Aug-2018 19:17:16 America/Guayaquil] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/kairoskids/public_html/android/ingreso_perfil.php on line 19
+[19-Aug-2018 19:17:20 America/Guayaquil] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/kairoskids/public_html/android/ingreso_perfil.php on line 19
+[19-Aug-2018 19:17:27 America/Guayaquil] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/kairoskids/public_html/android/ingreso_perfil.php on line 19
+[19-Aug-2018 19:19:50 America/Guayaquil] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/kairoskids/public_html/android/ingreso_perfil.php on line 19
+[19-Aug-2018 19:20:37 America/Guayaquil] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/kairoskids/public_html/android/ingreso_perfil.php on line 19
+[19-Aug-2018 19:25:11 America/Guayaquil] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/kairoskids/public_html/android/ingreso_perfil.php on line 19
+[19-Aug-2018 19:25:11 America/Guayaquil] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/kairoskids/public_html/android/ingreso_perfil.php on line 19
+[19-Aug-2018 19:25:18 America/Guayaquil] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/kairoskids/public_html/android/ingreso_perfil.php on line 19
+[19-Aug-2018 19:25:18 America/Guayaquil] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/kairoskids/public_html/android/ingreso_perfil.php on line 19
+[19-Aug-2018 19:25:23 America/Guayaquil] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/kairoskids/public_html/android/ingreso_perfil.php on line 19
+[19-Aug-2018 19:25:23 America/Guayaquil] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/kairoskids/public_html/android/ingreso_perfil.php on line 19
+[19-Aug-2018 19:30:32 America/Guayaquil] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/kairoskids/public_html/android/ingreso_perfil.php on line 19
+[19-Aug-2018 19:30:32 America/Guayaquil] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/kairoskids/public_html/android/ingreso_perfil.php on line 19
+[19-Aug-2018 19:30:38 America/Guayaquil] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/kairoskids/public_html/android/ingreso_perfil.php on line 19
+[19-Aug-2018 19:30:38 America/Guayaquil] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/kairoskids/public_html/android/ingreso_perfil.php on line 19
+[19-Aug-2018 19:33:40 America/Guayaquil] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/kairoskids/public_html/android/ingreso_perfil.php on line 19
+[19-Aug-2018 19:33:40 America/Guayaquil] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/kairoskids/public_html/android/ingreso_perfil.php on line 19
+[19-Aug-2018 19:37:09 America/Guayaquil] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/kairoskids/public_html/android/ingreso_perfil.php on line 19
+[19-Aug-2018 19:37:09 America/Guayaquil] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/kairoskids/public_html/android/ingreso_perfil.php on line 19
+[19-Aug-2018 19:39:00 America/Guayaquil] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/kairoskids/public_html/android/ingreso_perfil.php on line 19
+[19-Aug-2018 19:39:01 America/Guayaquil] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/kairoskids/public_html/android/ingreso_perfil.php on line 19
+[19-Aug-2018 19:39:58 America/Guayaquil] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/kairoskids/public_html/android/ingreso_perfil.php on line 19
+[19-Aug-2018 19:39:58 America/Guayaquil] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/kairoskids/public_html/android/ingreso_perfil.php on line 19
+[19-Aug-2018 21:12:24 America/Guayaquil] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/kairoskids/public_html/android/ingreso_perfil.php on line 19
+[19-Aug-2018 21:12:25 America/Guayaquil] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/kairoskids/public_html/android/ingreso_perfil.php on line 19
+[19-Aug-2018 21:12:27 America/Guayaquil] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/kairoskids/public_html/android/ingreso_perfil.php on line 19
+[19-Aug-2018 21:12:27 America/Guayaquil] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/kairoskids/public_html/android/ingreso_perfil.php on line 19
+[19-Aug-2018 21:12:39 America/Guayaquil] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/kairoskids/public_html/android/ingreso_perfil.php on line 19
+[19-Aug-2018 21:12:40 America/Guayaquil] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/kairoskids/public_html/android/ingreso_perfil.php on line 19
+[21-Aug-2018 21:48:33 America/Guayaquil] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/kairoskids/public_html/android/ingreso_perfil.php on line 19
+[21-Aug-2018 21:50:22 America/Guayaquil] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/kairoskids/public_html/android/ingreso_perfil.php on line 19
+[21-Aug-2018 22:11:38 America/Guayaquil] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/kairoskids/public_html/android/ingreso_perfil.php on line 19
+[21-Aug-2018 22:14:37 America/Guayaquil] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/kairoskids/public_html/android/ingreso_perfil.php on line 19
+[21-Aug-2018 22:19:22 America/Guayaquil] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/kairoskids/public_html/android/ingreso_perfil.php on line 19
+[23-Aug-2018 06:42:27 America/Guayaquil] PHP Warning:  copy(): Filename cannot be empty in /home/kairoskids/public_html/android/guardar_perfil.php on line 42
+[28-Aug-2018 21:13:38 America/Guayaquil] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/kairoskids/public_html/android/ingreso_perfil.php on line 19
+[28-Aug-2018 21:17:49 America/Guayaquil] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/kairoskids/public_html/android/ingreso_perfil.php on line 19
+[28-Aug-2018 21:50:01 America/Guayaquil] PHP Warning:  copy(): Filename cannot be empty in /home/kairoskids/public_html/android/guardar_perfil.php on line 42
+[16-Sep-2018 16:45:37 UTC] PHP Warning:  copy(): Filename cannot be empty in /home/kairoskids/public_html/android/guardar_perfil.php on line 42
+[16-Sep-2018 17:08:08 UTC] PHP Warning:  copy(): Filename cannot be empty in /home/kairoskids/public_html/android/guardar_perfil.php on line 42
+[16-Sep-2018 21:16:08 UTC] PHP Warning:  include(TD_reportes_Horizontal.php): failed to open stream: No such file or directory in /home/kairoskids/public_html/android/reporte_homologacion.php on line 2
+[16-Sep-2018 21:16:08 UTC] PHP Warning:  include(TD_reportes_Horizontal.php): failed to open stream: No such file or directory in /home/kairoskids/public_html/android/reporte_homologacion.php on line 2
+[16-Sep-2018 21:16:08 UTC] PHP Warning:  include(): Failed opening 'TD_reportes_Horizontal.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kairoskids/public_html/android/reporte_homologacion.php on line 2
+[16-Sep-2018 21:16:08 UTC] PHP Warning:  include(conexion.php): failed to open stream: No such file or directory in /home/kairoskids/public_html/android/reporte_homologacion.php on line 3
+[16-Sep-2018 21:16:08 UTC] PHP Warning:  include(conexion.php): failed to open stream: No such file or directory in /home/kairoskids/public_html/android/reporte_homologacion.php on line 3
+[16-Sep-2018 21:16:08 UTC] PHP Warning:  include(): Failed opening 'conexion.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kairoskids/public_html/android/reporte_homologacion.php on line 3
+[16-Sep-2018 21:16:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/kairoskids/public_html/android/reporte_homologacion.php on line 16
+[16-Sep-2018 21:16:08 UTC] PHP Fatal error:  Class 'PDF' not found in /home/kairoskids/public_html/android/reporte_homologacion.php on line 26
+[16-Sep-2018 21:34:59 UTC] PHP Warning:  include(TD_reportes_Horizontal.php): failed to open stream: No such file or directory in /home/kairoskids/public_html/android/reporte_homologacion.php on line 2
+[16-Sep-2018 21:34:59 UTC] PHP Warning:  include(TD_reportes_Horizontal.php): failed to open stream: No such file or directory in /home/kairoskids/public_html/android/reporte_homologacion.php on line 2
+[16-Sep-2018 21:34:59 UTC] PHP Warning:  include(): Failed opening 'TD_reportes_Horizontal.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kairoskids/public_html/android/reporte_homologacion.php on line 2
+[16-Sep-2018 21:34:59 UTC] PHP Warning:  include(conexion.php): failed to open stream: No such file or directory in /home/kairoskids/public_html/android/reporte_homologacion.php on line 3
+[16-Sep-2018 21:34:59 UTC] PHP Warning:  include(conexion.php): failed to open stream: No such file or directory in /home/kairoskids/public_html/android/reporte_homologacion.php on line 3
+[16-Sep-2018 21:34:59 UTC] PHP Warning:  include(): Failed opening 'conexion.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kairoskids/public_html/android/reporte_homologacion.php on line 3
+[16-Sep-2018 21:34:59 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/kairoskids/public_html/android/reporte_homologacion.php on line 6
+[16-Sep-2018 21:34:59 UTC] PHP Fatal error:  Class 'PDF' not found in /home/kairoskids/public_html/android/reporte_homologacion.php on line 8
+[16-Sep-2018 21:35:01 UTC] PHP Warning:  include(TD_reportes_Horizontal.php): failed to open stream: No such file or directory in /home/kairoskids/public_html/android/reporte_homologacion.php on line 2
+[16-Sep-2018 21:35:01 UTC] PHP Warning:  include(TD_reportes_Horizontal.php): failed to open stream: No such file or directory in /home/kairoskids/public_html/android/reporte_homologacion.php on line 2
+[16-Sep-2018 21:35:01 UTC] PHP Warning:  include(): Failed opening 'TD_reportes_Horizontal.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kairoskids/public_html/android/reporte_homologacion.php on line 2
+[16-Sep-2018 21:35:01 UTC] PHP Warning:  include(conexion.php): failed to open stream: No such file or directory in /home/kairoskids/public_html/android/reporte_homologacion.php on line 3
+[16-Sep-2018 21:35:01 UTC] PHP Warning:  include(conexion.php): failed to open stream: No such file or directory in /home/kairoskids/public_html/android/reporte_homologacion.php on line 3
+[16-Sep-2018 21:35:01 UTC] PHP Warning:  include(): Failed opening 'conexion.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kairoskids/public_html/android/reporte_homologacion.php on line 3
+[16-Sep-2018 21:35:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/kairoskids/public_html/android/reporte_homologacion.php on line 6
+[16-Sep-2018 21:35:01 UTC] PHP Fatal error:  Class 'PDF' not found in /home/kairoskids/public_html/android/reporte_homologacion.php on line 8
+[03-Oct-2018 13:33:25 America/Guayaquil] PHP Fatal error:  Function name must be a string in /home/kairoskids/public_html/android/rol_pdf.php on line 23
+[03-Oct-2018 13:33:27 America/Guayaquil] PHP Fatal error:  Function name must be a string in /home/kairoskids/public_html/android/rol_pdf.php on line 23
+[03-Oct-2018 15:34:11 America/Guayaquil] PHP Parse error:  syntax error, unexpected '.' in /home/kairoskids/public_html/android/rol_pdf.php on line 34
+[03-Oct-2018 15:34:14 America/Guayaquil] PHP Parse error:  syntax error, unexpected '.' in /home/kairoskids/public_html/android/rol_pdf.php on line 34
+[03-Oct-2018 15:46:56 America/Guayaquil] PHP Warning:  setlocale(): Invalid locale category name Wednesday, must be one of LC_ALL, LC_COLLATE, LC_CTYPE, LC_MONETARY, LC_NUMERIC, or LC_TIME in /home/kairoskids/public_html/android/rol_pdf.php on line 30
+[03-Oct-2018 16:55:59 America/Guayaquil] PHP Warning:  date() expects parameter 2 to be long, string given in /home/kairoskids/public_html/android/rol_pdf.php on line 27
+[03-Oct-2018 17:17:09 America/Guayaquil] PHP Fatal error:  Call to undefined function datetime() in /home/kairoskids/public_html/android/rol_pdf.php on line 25
+[03-Oct-2018 17:36:23 America/Guayaquil] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/kairoskids/public_html/android/rol_pdf.php on line 11
+[09-Oct-2018 16:04:57 America/Guayaquil] PHP Warning:  copy(): Filename cannot be empty in /home/kairoskids/public_html/android/guardar_perfil.php on line 46
+[09-Oct-2018 16:05:01 America/Guayaquil] PHP Warning:  copy(): Filename cannot be empty in /home/kairoskids/public_html/android/guardar_perfil.php on line 46
+[30-Oct-2018 07:23:15 America/Guayaquil] PHP Warning:  copy(): Filename cannot be empty in /home/kairoskids/public_html/android/guardar_perfil.php on line 48
+[30-Oct-2018 07:23:25 America/Guayaquil] PHP Warning:  copy(): Filename cannot be empty in /home/kairoskids/public_html/android/guardar_perfil.php on line 48
+[30-Oct-2018 07:23:27 America/Guayaquil] PHP Warning:  copy(): Filename cannot be empty in /home/kairoskids/public_html/android/guardar_perfil.php on line 48
+[12-Aug-2019 12:35:23 America/Guayaquil] PHP Warning:  copy(): Filename cannot be empty in /home/kairoskids/public_html/android/guardar_perfil.php on line 48
+[12-Aug-2019 12:36:03 America/Guayaquil] PHP Warning:  copy(): Filename cannot be empty in /home/kairoskids/public_html/android/guardar_perfil.php on line 48
+[29-Aug-2019 21:39:43 America/Guayaquil] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/kairoskids/public_html/android/TD_reporte_vertical.php on line 16
+[29-Aug-2019 21:39:47 America/Guayaquil] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/kairoskids/public_html/android/TD_reporte_vertical.php on line 16
+[29-Aug-2019 21:40:19 America/Guayaquil] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/kairoskids/public_html/android/TD_reporte_vertical.php on line 16
+[29-Aug-2019 21:40:20 America/Guayaquil] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/kairoskids/public_html/android/TD_reporte_vertical.php on line 16
+[29-Aug-2019 21:40:43 America/Guayaquil] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/kairoskids/public_html/android/TD_reporte_vertical.php on line 16
+[29-Aug-2019 21:40:43 America/Guayaquil] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/kairoskids/public_html/android/TD_reporte_vertical.php on line 16
+[29-Aug-2019 21:43:16 America/Guayaquil] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/kairoskids/public_html/android/TD_reporte_vertical.php on line 16
+[29-Aug-2019 21:43:17 America/Guayaquil] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/kairoskids/public_html/android/TD_reporte_vertical.php on line 16
